@@ -1,0 +1,76 @@
+#s-e225c866-c97e-4f44-b5f8-00f9285bdaf8 #s-Paragraph_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-e225c866-c97e-4f44-b5f8-00f9285bdaf8 #s-Rectangle_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-e225c866-c97e-4f44-b5f8-00f9285bdaf8 #s-Image_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-e225c866-c97e-4f44-b5f8-00f9285bdaf8 #s-Image_2 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-e225c866-c97e-4f44-b5f8-00f9285bdaf8 #s-Image_3 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-e225c866-c97e-4f44-b5f8-00f9285bdaf8 #s-Text_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-e225c866-c97e-4f44-b5f8-00f9285bdaf8 #s-Text_2 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-e225c866-c97e-4f44-b5f8-00f9285bdaf8 #s-Rectangle_2 {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=15);
+  filter: alpha(opacity=15);
+  -ms-transform: rotate(0.0deg);
+}
+#s-e225c866-c97e-4f44-b5f8-00f9285bdaf8 #s-Text_3 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-e225c866-c97e-4f44-b5f8-00f9285bdaf8 #s-Image_4 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-e225c866-c97e-4f44-b5f8-00f9285bdaf8 #s-Text_4 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-e225c866-c97e-4f44-b5f8-00f9285bdaf8 #s-Button_1 {
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-top-color: #282828;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-right-color: #282828;
+  border-bottom-width: 0px;
+  border-bottom-style: solid;
+  border-bottom-color: #282828;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-left-color: #282828;
+  border-radius: 5px 5px 5px 5px;
+  padding-top: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+  padding-left: 3px;
+  height: 39px;
+  width: 300px;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=90);
+  filter: alpha(opacity=90);
+  -ms-transform: rotate(0.0deg);
+}
+#s-e225c866-c97e-4f44-b5f8-00f9285bdaf8 #s-Image_5 {
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-e225c866-c97e-4f44-b5f8-00f9285bdaf8 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

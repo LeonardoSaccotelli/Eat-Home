@@ -1,0 +1,86 @@
+#s-247703e2-f22c-41f1-9333-5513978390d6 #s-Screen-bg {
+  -ms-transform: rotate(0.0deg);
+}
+#s-247703e2-f22c-41f1-9333-5513978390d6 #s-Softkeys-bg {
+  -ms-transform: rotate(0.0deg);
+}
+#s-247703e2-f22c-41f1-9333-5513978390d6 #s-Square {
+  -ms-transform: rotate(0.0deg);
+}
+#s-247703e2-f22c-41f1-9333-5513978390d6 #s-Circle {
+  -ms-transform: rotate(0.0deg);
+}
+#s-247703e2-f22c-41f1-9333-5513978390d6 #s-Triangle {
+  -ms-transform: rotate(0.0deg);
+}
+#s-247703e2-f22c-41f1-9333-5513978390d6 #s-Bg {
+  -ms-transform: rotate(0.0deg);
+}
+#s-247703e2-f22c-41f1-9333-5513978390d6 #s-Text {
+  -ms-transform: rotate(0.0deg);
+}
+#s-247703e2-f22c-41f1-9333-5513978390d6 #s-Bg_status {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=15);
+  filter: alpha(opacity=15);
+  -ms-transform: rotate(0.0deg);
+}
+#s-247703e2-f22c-41f1-9333-5513978390d6 #s-hour {
+  -ms-transform: rotate(0.0deg);
+}
+#s-247703e2-f22c-41f1-9333-5513978390d6 #s-signals {
+  -ms-transform: rotate(0.0deg);
+}
+#s-247703e2-f22c-41f1-9333-5513978390d6 #s-Title {
+  -ms-transform: rotate(0.0deg);
+}
+#s-247703e2-f22c-41f1-9333-5513978390d6 #s-raised_Button_3 {
+  border-radius: 0px 0px 0px 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  height: 132px;
+  width: 385px;
+  -ms-transform: rotate(0.0deg);
+}
+#s-247703e2-f22c-41f1-9333-5513978390d6 #s-Image_71 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-247703e2-f22c-41f1-9333-5513978390d6 #s-Rectangle_1 {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #A9A9A9;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #A9A9A9;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #A9A9A9;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #A9A9A9;
+  border-radius: 10px 10px 10px 10px;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=70);
+  filter: alpha(opacity=70);
+  -ms-transform: rotate(0.0deg);
+}
+#s-247703e2-f22c-41f1-9333-5513978390d6 #s-Text_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-247703e2-f22c-41f1-9333-5513978390d6 #s-Text_2 {
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-247703e2-f22c-41f1-9333-5513978390d6 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

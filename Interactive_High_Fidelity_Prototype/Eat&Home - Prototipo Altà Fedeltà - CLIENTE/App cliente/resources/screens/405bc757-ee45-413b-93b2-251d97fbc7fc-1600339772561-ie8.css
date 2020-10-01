@@ -1,0 +1,96 @@
+#s-405bc757-ee45-413b-93b2-251d97fbc7fc #s-Softkeys-bg {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-405bc757-ee45-413b-93b2-251d97fbc7fc #s-Square {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-405bc757-ee45-413b-93b2-251d97fbc7fc #s-Circle {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-405bc757-ee45-413b-93b2-251d97fbc7fc #s-Triangle {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-405bc757-ee45-413b-93b2-251d97fbc7fc #s-Bg {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-405bc757-ee45-413b-93b2-251d97fbc7fc #s-Text {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-405bc757-ee45-413b-93b2-251d97fbc7fc #s-Bg_status {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=15) ;
+  filter: alpha(opacity=15) ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-405bc757-ee45-413b-93b2-251d97fbc7fc #s-hour {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-405bc757-ee45-413b-93b2-251d97fbc7fc #s-signals {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-405bc757-ee45-413b-93b2-251d97fbc7fc #s-Title {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-405bc757-ee45-413b-93b2-251d97fbc7fc #s-Line_1 {
+  rotation: 0.0;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-405bc757-ee45-413b-93b2-251d97fbc7fc #s-Paragraph_2 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-405bc757-ee45-413b-93b2-251d97fbc7fc #s-Line_2 {
+  rotation: 0.0;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+#s-405bc757-ee45-413b-93b2-251d97fbc7fc #s-Image_71 {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-405bc757-ee45-413b-93b2-251d97fbc7fc > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

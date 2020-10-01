@@ -1,0 +1,52 @@
+#s-6721e50f-d215-4057-9362-9757f801213e #s-Screen-bg {
+  -ms-transform: rotate(0.0deg);
+}
+#s-6721e50f-d215-4057-9362-9757f801213e #s-Softkeys-bg {
+  -ms-transform: rotate(0.0deg);
+}
+#s-6721e50f-d215-4057-9362-9757f801213e #s-Square {
+  -ms-transform: rotate(0.0deg);
+}
+#s-6721e50f-d215-4057-9362-9757f801213e #s-Circle {
+  -ms-transform: rotate(0.0deg);
+}
+#s-6721e50f-d215-4057-9362-9757f801213e #s-Triangle {
+  -ms-transform: rotate(0.0deg);
+}
+#s-6721e50f-d215-4057-9362-9757f801213e #s-Bg {
+  -ms-transform: rotate(0.0deg);
+}
+#s-6721e50f-d215-4057-9362-9757f801213e #s-Text {
+  -ms-transform: rotate(0.0deg);
+}
+#s-6721e50f-d215-4057-9362-9757f801213e #s-Bg_status {
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=15);
+  filter: alpha(opacity=15);
+  -ms-transform: rotate(0.0deg);
+}
+#s-6721e50f-d215-4057-9362-9757f801213e #s-hour {
+  -ms-transform: rotate(0.0deg);
+}
+#s-6721e50f-d215-4057-9362-9757f801213e #s-signals {
+  -ms-transform: rotate(0.0deg);
+}
+#s-6721e50f-d215-4057-9362-9757f801213e #s-Paragraph_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-6721e50f-d215-4057-9362-9757f801213e #s-Image_71 {
+  -ms-transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-6721e50f-d215-4057-9362-9757f801213e > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
