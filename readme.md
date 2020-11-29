@@ -1,34 +1,25 @@
 # Eat&Home
 
-Eat&Home è un'applicazione di Food Delivery sviluppata nell'ambito dell'esame di User Interaction Design. Il sistema è stato realizzato sviluppando due applicazioni differenti, destinate rispettivamente ai Clienti e ai Ristoratori.
+Eat & Home is a Food Delivery application. The system was created by developing two different applications, intended respectively for customers and restaurateurs. The customer application provides the ability to search for a restaurant based on the user's location, to select a restaurant category to choose from, to view information, menus and reviews of this restaurant. Furthermore, you can add dishes to the cart, modify the cart, enter the data necessary to complete the order (address, time and date of delivery, type of payment). Finally, you can view the history of the orders placed or follow the progress of the order just made. The restaurateur's application allows you to create and modify your menu, enter and update restaurant information, view reviews and orders received, update the progress of an order.
+Project developed during the User Interaction Design course @ [Department of Computer Science](https://www.uniba.it/ricerca/dipartimenti/informatica) @ [University of Bari "Aldo Moro"](http://www.uniba.it/) under the supervision of dr. [Berardina Nadja De Carolis](http://www.di.uniba.it/~nadja/).
 
-## Analisi
-Nella fase di analisi sono state raccolte le seguenti informazioni:
-* Analisi della concorrenza
-* Analisi dell'utente potenziale
-* Analisi del contesto
-* Analisi dei requisiti
-* Analisi dei Task 
+## Analysis
+In the design phase of the interaction with the user, the following prototypes were created:
+* Low fidelity prototypes
+* High fidelity prototypes
 
-
-## Prototipi realizzati
-
-Nella fase di progettazione dell'interazione con l'utente sono stati realizzati i seguenti prototipi:
-* Prototipi a bassa fedeltà
-* Prototipi ad alta fedeltà
-
-## Valutazione dell'Usabilità
-Nella fase di valutazione dell'usabilità sono stati svolti i seguenti test:
-* Per i prototipi a bassa fedeltà
-  * Cognitive Walkthrough
-  * Test di scenario
-* Per i prototipi ad alta fedeltà
-  * Test di compito
-  * SUS
-  * QUIS
-
-## Euristiche di Nielsen
-Valutazione dell'usabilità tramite le Euristiche di Nielsen del sitoweb https://www.justeat.it/ 
+## Usability Assessment
+The following tests were carried out in the usability evaluation phase:
+* For low fidelity prototypes
+   * Cognitive Walkthrough
+   * Scenario test
+* For high fidelity prototypes
+   * Task test
+   * SUS
+   * QUIS
+   
+## Nielsen heuristics
+Usability evaluation through Nielsen Heuristics of the website https://www.justeat.it/
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+This software is released under the MIT License. See the [LICENSE](LICENSE) file for details.
